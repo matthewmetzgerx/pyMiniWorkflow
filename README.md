@@ -21,4 +21,4 @@ mwf.runWorkflow(workflow2) # WORKFLOW
 `
 
 ## Authors
-This project was created by [https://matthewmetzgerx.github.io/](Mattew Metzger) and was built to complete a missing functional process in the Bellevue.edu DSC 550 coursework.
+This project was created by [Mattew Metzger](https://matthewmetzgerx.github.io/) and was built to complete a missing functional process in the Bellevue.edu DSC 550 coursework.
