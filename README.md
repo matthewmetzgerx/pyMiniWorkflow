@@ -11,14 +11,14 @@ This project was built using Python 3. It uses publicly accessible libraries:
 
 ## Installation
 Presently, installation is only to add the MetzgerWorkflow class, import a workflow, and let her rip!
-`
+```python
 import workflow1, workflow2, workflow3
 import MetzgerWorkflow as MWF
 
 mwf = MWF.MetzgerWorkflow()
 mwf.runWorkflow(workflow1) # WORKFLOW
 mwf.runWorkflow(workflow2) # WORKFLOW
-`
+```
 
 ## Authors
 This project was created by [Mattew Metzger](https://matthewmetzgerx.github.io/) and was built to complete a missing functional process in the Bellevue.edu DSC 550 coursework.
